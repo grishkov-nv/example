@@ -1,0 +1,7 @@
+*.py eol=lf
+*.groovy eol=lf
+*.txt eol=lf
+
+gmap/VERSION eol=lf
+*.htm eol=lf
+*.html eol=lf
